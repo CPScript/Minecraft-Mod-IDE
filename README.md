@@ -2,6 +2,8 @@
 
 A simple Integrated Development Environment for Minecraft mod development with built-in JAR compilation and project management.
 
+<img width="1363" height="727" alt="image" src="https://github.com/user-attachments/assets/1038694f-8345-4255-aed0-ca4b9d141866" />
+
 ## Features
 
 ### Core Development Tools
